@@ -30,5 +30,13 @@
   "main": "eslint.config.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark15963/React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mark15963/React/issues"
+  },
+  "homepage": "https://github.com/mark15963/React#readme"
 }
