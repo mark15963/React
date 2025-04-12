@@ -1,5 +1,6 @@
 import { Checkbox, Form, Input, InputNumber, Button } from 'antd'
-import { Desktop, Tablet, Mobile, Default } from './Responsive'
+import { Desktop, Tablet, Mobile } from './Responsive'
+import React from 'react';
 
 export const App = () => {
 
