@@ -11,7 +11,7 @@ export const App = () => {
     return (
         <div>
             <Desktop>Вы смотрите это на компьютере <Checkbox /></Desktop>
-            <Tablet>Вы смотрите это на планшете <Input /></Tablet>
+            <Tablet>Вы смотрите это на планшете <Checkbox checked='true' /><Input /></Tablet>
             <Mobile>Вы смотрите это на телефоне <Button /></Mobile>
             <Form
                 name='auth'
